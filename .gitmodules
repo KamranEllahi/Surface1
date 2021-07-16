@@ -1,3 +1,6 @@
 [submodule "Submarine1"]
 	path = Submarine1
 	url = https://github.com/KamranEllahi/Submarine1.git
+[submodule "Submarine2"]
+	path = Submarine2
+	url = https://github.com/KamranEllahi/Submarine2.git
